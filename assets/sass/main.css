@@ -2085,5 +2085,25 @@ footer p span {
     }
 }
 
+@media screen and (max-width: 480px) {
+    .extrastyling{
+     padding: 0px;
+    }
+ }
+ @media screen and (max-width: 991px) {
+    .extrastyling{
+     padding: 0px;
+    }
+ }
+ @media screen and (max-width: 1199px) {
+    .extrastyling{
+     padding: 0px;
+    }
+ }
+ @media screen and (max-width: 1400px) {
+    .extrastyling{
+     padding: 214px;
+    }
+ }
 
 /*# sourceMappingURL=main.css.map */
